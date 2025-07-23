@@ -46,3 +46,9 @@ jensen-portfolio
 Jensen Huang  
 Founder & CEO, NVIDIA  
 [LinkedIn Profile](https://www.linkedin.com/in/jenhsunhuang)
+
+
+## All rights reserved.
+
+Built with 💚 and lots of caffeine.
+Designed & developed by [Gourob Ghosh Durjoy](https://www.linkedin.com/in/iamggd/)
