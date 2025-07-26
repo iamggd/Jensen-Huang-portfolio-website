@@ -41,11 +41,6 @@ jensen-portfolio
 - CSS
 - JavaScript
 
-## Author
-
-Jensen Huang  
-Founder & CEO, NVIDIA  
-[LinkedIn Profile](https://www.linkedin.com/in/jenhsunhuang)
 
 
 ## All rights reserved.
